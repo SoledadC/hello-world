@@ -3,4 +3,4 @@ My first repository
 
 Hello,
 
-Testing one two three. My first edit.
+Testing one two three.
